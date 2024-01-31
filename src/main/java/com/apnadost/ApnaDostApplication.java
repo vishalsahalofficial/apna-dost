@@ -10,7 +10,6 @@ public class ApnaDostApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ApnaDostApplication.class, args);
-        System.out.println("HI");
     }
 }
 
